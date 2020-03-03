@@ -1,0 +1,4 @@
+-   create folder
+    - use below cmd to create package.json
+        - cd <folder_name>
+        - npm init
