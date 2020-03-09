@@ -13,7 +13,7 @@
         - npm install --save-dev sass fibers
         
         // ExtractTextPlugin is deprecated use mini-css-extract-plugin as above
-        //-  npm i extract-text-webpack-plugin css-loader -D
+        -  npm i extract-text-webpack-plugin css-loader -D
 
         - npm i sass-loader node-sass -D
 
