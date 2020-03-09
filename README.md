@@ -9,7 +9,7 @@
         - npm i html-webpack-plugin -D
         - npm i source-map-loader -D    // to debug in devtool by adding breakpoint(in sources tab).
         -  npm i mini-css-extract-plugin css-loader sass-loader node-sass -D
-        if you got peer dependancy warining and got error because of that them use
+        if you got peer dependancy warining and got error because of that the use
         - npm install --save-dev sass fibers
         
         // ExtractTextPlugin is deprecated use mini-css-extract-plugin as above
